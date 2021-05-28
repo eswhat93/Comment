@@ -1,3 +1,7 @@
+body{
+    background:#fafafa;
+}
+
 .comment-img{
     width: 16%;
     height: 16%;
@@ -41,10 +45,13 @@ background-color: whitesmoke;
     font-size: 14px;
     font-weight: bold;
 }
-
-
-body{
-    background:#fafafa;
+.container-cloumn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2{
+    text-align:center;
 }
 
 .contents{
