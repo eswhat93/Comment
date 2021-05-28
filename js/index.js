@@ -184,8 +184,8 @@ function addInput(text){
     `</div>
 </header>
 <div class='js-content'>
-    <div style='width:400px; height:100px'>
-        <div style='width:100%; padding: 20px; text-align: center;'><h2>${text}</h2></div>
+    <div style='100%; height:100px'>
+        <div style='width:100%; text-align: center;'><h2>${text}</h2></div>
     </div>
 </div>
 
