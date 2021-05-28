@@ -1,16 +1,18 @@
 .modal_wrap{
     display: none;
-    width: 500px;
+    width: 330px;
     height: 230px;
-    position: absolute;
-    top:50%;
-    left: 50%;
+    top:60%;
+    left:66%;
+    right:0;
+    bottom:0;
     margin: -250px 0 0 -250px;
     background:#eee;
     z-index: 2;
     justify-content:center;
     align-items:center;    
-    position:fixed;         
+    position:fixed; 
+    padding: 20px;        
 }
 
 .black_bg{
