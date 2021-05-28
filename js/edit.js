@@ -46,7 +46,7 @@ function getTime(){
 //금지어 등록 막기
 function banText(text) {
     
-    const ban=["죽어","꺼져"];
+    const ban=["금지어","테스트"];
     
     let textConfirm = text;
     textConfirm = textConfirm.toLowerCase();

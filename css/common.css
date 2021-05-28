@@ -452,13 +452,6 @@ body{
     height: 24px;
 }
 
-.sprite_share_icon {
-    display: inline-block;
-    background: url('../images/background01.png') no-repeat -324px -52px;
-    width: 21px;
-    height: 24px;
-}
-
 /*-------------------------------------//icons*/
 
 #container {

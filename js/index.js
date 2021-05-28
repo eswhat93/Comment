@@ -229,8 +229,7 @@ function doubleSubmitCheck(){
 }
 function handleSubmit(event){
     event.preventDefault();
-    //테스트후 주석풀기
-    //if(doubleSubmitCheck()) return;
+    if(doubleSubmitCheck()) return;
     const currentValue = commentInput.value;
     addInput(currentValue);
     commentInput.value="";

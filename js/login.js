@@ -7,11 +7,7 @@ const userInfo = [
     {
         id:"test",
         pwd:"1234"
-    },
-    {
-        id:"test2",
-        pwd:"123"
-    },
+    }
 ];
 
 const USERID = "ComfirmedId";
