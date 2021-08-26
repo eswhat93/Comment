@@ -1,4 +1,4 @@
-# Comment
+# Comment - vanila javascript
 
 1. 모바일 댓글 화면 구현
 2. 회원이 아닌경우 댓글창이나 좋아요 싫어요 이미지를 클릭시 SNS로그인 화면 팝업
